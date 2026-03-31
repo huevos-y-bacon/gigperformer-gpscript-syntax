@@ -70,3 +70,9 @@ If it still does not work:
 2. Run `Developer: Reload Window` after installing the extension from location.
 3. Ensure the filename ends with `.gpscript`.
 4. If needed, run `Change Language Mode` and pick `GPScript` manually.
+
+---
+
+:notebook_with_decorative_cover: ***Footnote:***
+
+This pack was created with the help of GitHub CoPilot. It seems to work correctly for me, but it's obviously not guaranteed!
